@@ -25,7 +25,9 @@ Hi guys! I'm a computer guy trying my best to discover the technology world, and
 #### :computer: Programming languages and tools: 
 
 <div>
-	<img width="50%" align='left'src="https://github-readme-stats.vercel.app/api?username=ryanlee0517&show_icons=true&theme=monokai" />
-	<img width="40%" height='200px' align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlee0517&layout=compact&theme=monokai" />	
+	<img width="50%" align='left'  src="https://github-readme-stats.vercel.app/api?username=ryanlee0517&show_icons=true&theme=monokai" />
+	<img width="40%" height='200px' align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlee0517&layout=compact&theme=monokai" />
+	
 </div>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=120&fontAlignY=75&section=footer&fontAlign=25&animation=twinkling&text=That%27s%20all,%20have%20a%20good%20day!&fontSize=24&fontColor=fff)
